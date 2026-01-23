@@ -10,6 +10,6 @@ Sentinel Elite is a high-performance Python-based dashboard designed for automat
 * **Git Sync**: Integrated Vanguard push engine for remote backup.
 
 ## 🛠️ Installation
-1. Clone the repo: `git clone https://github.com/YOUR_USER/Sentinel-Elite.git`
+1. Clone the repo: `git clone https://github.com/mdarkvprp-lab/Sentinel-Elite.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Launch: `python main.py`
